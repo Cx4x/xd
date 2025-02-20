@@ -1,3 +1,8 @@
+# 这是本地源列表，一行一个源，格式为：频道名称,接口地址
+# 支持设置白名单：接口后添加$!
+# The local source list, one line per source, format: channel name, interface address
+# Support setting whitelist: add $! after the interface
+
 CCTV1,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV1HD$!
 CCTV2,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV2HD$!
 CCTV3,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV3_HD$!
