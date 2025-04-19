@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-19 23:16:12,https://cc.tv12.xyz/CCTV1.m3u8
+2025-04-20 01:59:15,https://cc.tv12.xyz/CCTV1.m3u8
 
 🔆央视频道🔆,#genre#
 CCTV1,https://cc.tv12.xyz/CCTV1.m3u8
