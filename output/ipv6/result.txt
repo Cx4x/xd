@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-24 11:33:06,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-24 17:23:29,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 🔆央视频道🔆,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -1422,6 +1422,7 @@ CETV4,http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226362/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CETV4,http://tv.scjyhd.com:4022/udp/239.11.0.248:5140
+CETV4,http://z.b.bkpcp.top/m.php?id=cetv4?4.112:5140
 北京卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
@@ -2123,7 +2124,7 @@ CETV4,http://tv.scjyhd.com:4022/udp/239.11.0.248:5140
 安多卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000064/index.m3u8
 安多卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226228/index.m3u8
 安多卫视,http://tv.scjyhd.com:4022/udp/239.11.0.124:5140
-安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2#http://stream.qhbtv.com/adws/sd/live.m3u8#http://stream.qhbtv.com/adws/playlist.m3u8#http://39.134.65.166/PLTV/88888888/224/3221225531/1.m3u8#http://39.134.66.66/PLTV/88888888/224/3221225531/1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=848d1a991707377572#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=be54a04d1719055140#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=739abf201649062902#http://stream.qhbtv.com/adws/playlist.m3u8?_upt=fa85a7111719921825#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=58d8c4&tk=822270345d4c#rtsp://116.176.26.18/PLTV/88888910/224/3221225872/376957310.smil#rtsp://180.95.143.19/PLTV/88888910/224/3221225872/376957310.smil#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8105&tk=2aca1ad9a849#http://jf.jxx2023.work:40446/tsfile/live/1004_1.m3u8?key=txiptv#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6214&tk=b53028476470#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4976&tk=e640d0a1bf70#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9172&tk=f6cc1e0a0e1a#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6296&tk=2aca1ad9a849#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6341&tk=a0c4f6cfaba3#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=9531&tk=e503191f8e20#http://dl.wifi942.com:66/jsyd/jsyd.php?id=G_ANDUO#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3678&tk=e503191f8e20#https://stream1.freetv.fun/52d0df257c5c3cec42f2ae19268dbbc261256ff391b27bd83553bea941d0c186.m3u8#http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8#http://stream.qhbtv.com/adws/sd/live.m3u8
+安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8#@http://cm-wshls.homecdn.com/live/5a296.dlv#@http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8#@http://cm-wshls.homecdn.com/live/5a296.m3u8#rtmp://liveout.xntv.tv/a65jur/96iln2
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
 康巴卫视,https://cc05.tv12.xyz/96.m3u8
