@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-24 17:23:29,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
+2025-04-25 02:22:20,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
 
 🔆央视频道🔆,#genre#
 CCTV1,https://cdn5.163189.xyz/live/cctv1/stream.m3u8
@@ -2173,6 +2173,7 @@ CETV4,http://z.b.bkpcp.top/m.php?id=cetv4?4.112:5140
 卡酷少儿,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8?
 卡酷少儿,http://tv.scjyhd.com:4022/udp/239.93.0.208:5140
+卡酷少儿,http://goo.bkpcp.top/mg/bjkk
 优漫卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225656/index.m3u8?IASHttpSessionId=
 优漫卡通,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010118
 优漫卡通,http://z.b.bkpcp.top/m.php?id=ymkt
@@ -2188,6 +2189,7 @@ CETV4,http://z.b.bkpcp.top/m.php?id=cetv4?4.112:5140
 优漫卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 优漫卡通,http://tv.scjyhd.com:4022/udp/239.93.0.251:5140
+优漫卡通,http://goo.bkpcp.top/mg/ymkt
 哈哈炫动,http://39.134.64.87:6610/PLTV/88888888/224/3221225657/index.m3u8?IASHttpSessionId=
 哈哈炫动,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010117
 哈哈炫动,http://yc.myds.me:35455/itv/5000000011000031123.m3u8?cdn=bestzb
