@@ -2,3 +2,22 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27$!
+CCTV2,http://gat.bkpcp.top/ymg.php?id=cctv2$!
+CCTV3,http://gat.bkpcp.top/ymg.php?id=cctv3$!
+CCTV4,http://gat.bkpcp.top/ymg.php?id=cctv4$!
+CCTV5,http://gat.bkpcp.top/ymg.php?id=cctv5$!
+CCTV5+,http://gat.bkpcp.top/ymg.php?id=cctv5p$!
+CCTV6,http://gat.bkpcp.top/ymg.php?id=cctv6$!
+CCTV7,http://gat.bkpcp.top/ymg.php?id=cctv7$!
+CCTV8,http://gat.bkpcp.top/ymg.php?id=cctv8$!
+CCTV9,http://gat.bkpcp.top/ymg.php?id=cctv9$!
+CCTV10,http://gat.bkpcp.top/ymg.php?id=cctv10$!
+CCTV11,http://gat.bkpcp.top/ymg.php?id=cctv11$!
+CCTV12,http://gat.bkpcp.top/ymg.php?id=cctv12$!
+CCTV13,http://gat.bkpcp.top/ymg.php?id=cctv13$!
+CCTV14,http://gat.bkpcp.top/ymg.php?id=cctv14$!
+CCTV15,http://gat.bkpcp.top/ymg.php?id=cctv15$!
+CCTV16,http://gat.bkpcp.top/ymg.php?id=cctv16$!
+CCTV17,http://gat.bkpcp.top/ymg.php?id=cctv17$!
