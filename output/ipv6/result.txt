@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-04-27 17:59:23,http://8.138.7.223/tv/ptbtv.php?id=27
+2025-04-28 01:06:47,http://8.138.7.223/tv/ptbtv.php?id=27
 
 🔆央视频道🔆,#genre#
 CCTV1,http://8.138.7.223/tv/ptbtv.php?id=27
