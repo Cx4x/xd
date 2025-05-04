@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-04 01:20:41,http://gat.bkpcp.top/ymg.php?id=cctv1
+2025-05-04 11:20:15,http://gat.bkpcp.top/ymg.php?id=cctv1
 
 🔆央视频道🔆,#genre#
 CCTV1,http://gat.bkpcp.top/ymg.php?id=cctv1
@@ -1070,7 +1070,7 @@ CCTV4K,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hl
 延边卫视,https://tv.bfsu.edu.cn/hls/ybtv.m3u8
 延边卫视,http://tv.scjyhd.com:4022/udp/239.11.0.206:5140
 延边卫视,http://iptv.huuc.edu.cn/hls/ybtv.m3u8
-延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230557/1.m3u8#http://113.64.146.32:2024/hls/93/index.m3u8#http://113.64.146.6:2024/hls/93/index.m3u8#http://113.64.146.94:2024/hls/93/index.m3u8#http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1657e3&tk=822270345d4c#http://211.67.191.23/hls/ybtv/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c56f18&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=da0ab1&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=334952&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab5ca4&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=eed145&tk=822270345d4c#https://stream1.freetv.fun/a26f33a3504d1ef90a6b1750c720fb6b6a0dcab447c91e0afd790b9fe21b2bbf.m3u8#https://stream1.freetv.fun/c0b813fdcf8e35946c0c91e75d6a2ed10a8b9094c02223e4cb83b282c977ef58.ctv
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 
 🔆移动网专用🔆,#genre#
 CCTV1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
@@ -2107,7 +2107,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 延边卫视,https://tv.bfsu.edu.cn/hls/ybtv.m3u8
 延边卫视,http://tv.scjyhd.com:4022/udp/239.11.0.206:5140
 延边卫视,http://iptv.huuc.edu.cn/hls/ybtv.m3u8
-延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230557/1.m3u8#http://113.64.146.32:2024/hls/93/index.m3u8#http://113.64.146.6:2024/hls/93/index.m3u8#http://113.64.146.94:2024/hls/93/index.m3u8#http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1657e3&tk=822270345d4c#http://211.67.191.23/hls/ybtv/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c56f18&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=da0ab1&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=334952&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab5ca4&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=eed145&tk=822270345d4c#https://stream1.freetv.fun/a26f33a3504d1ef90a6b1750c720fb6b6a0dcab447c91e0afd790b9fe21b2bbf.m3u8#https://stream1.freetv.fun/c0b813fdcf8e35946c0c91e75d6a2ed10a8b9094c02223e4cb83b282c977ef58.ctv
+延边卫视,http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
 甘肃卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8#http://39.165.196.149:9003//hls/52/index.m3u8#rtmp://livein.gstv.com.cn/49048r/y3nga4.flv#rtmp://livein.gstv.com.cn/49048r/y3nga4#http://60.223.224.176:8888/newlive/live/hls/35/live.m3u8?#http://tvbox6.icu/tv/migu.php?id=gsws
 甘肃卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010098
