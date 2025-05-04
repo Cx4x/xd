@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="👉卡顿请左右键切换源👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉卡顿请左右键切换源👈.png" group-title="🕘️更新时间",2025-05-04 11:20:15
+#EXTINF:-1 tvg-name="👉卡顿请左右键切换源👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉卡顿请左右键切换源👈.png" group-title="🕘️更新时间",2025-05-04 18:16:17
 http://gat.bkpcp.top/ymg.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV1
 http://gat.bkpcp.top/ymg.php?id=cctv1
@@ -2134,7 +2134,7 @@ http://tv.scjyhd.com:4022/udp/239.11.0.206:5140
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🔆卫视频道🔆",延边卫视
 http://iptv.huuc.edu.cn/hls/ybtv.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🔆卫视频道🔆",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230557/1.m3u8#http://113.64.146.32:2024/hls/93/index.m3u8#http://113.64.146.6:2024/hls/93/index.m3u8#http://113.64.146.94:2024/hls/93/index.m3u8#http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1657e3&tk=822270345d4c#http://211.67.191.23/hls/ybtv/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c56f18&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=da0ab1&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=334952&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab5ca4&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=eed145&tk=822270345d4c#https://stream1.freetv.fun/a26f33a3504d1ef90a6b1750c720fb6b6a0dcab447c91e0afd790b9fe21b2bbf.m3u8#https://stream1.freetv.fun/c0b813fdcf8e35946c0c91e75d6a2ed10a8b9094c02223e4cb83b282c977ef58.ctv
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆移动网专用🔆",CCTV1
 http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆移动网专用🔆",CCTV1
@@ -4204,7 +4204,7 @@ http://tv.scjyhd.com:4022/udp/239.11.0.206:5140
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🔆移动网专用🔆",延边卫视
 http://iptv.huuc.edu.cn/hls/ybtv.m3u8
 #EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/延边卫视.png" group-title="🔆移动网专用🔆",延边卫视
-http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#
+http://l.cztvcloud.com/channels/lantian/SXxinchang2/720p.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230557/1.m3u8#http://113.64.146.32:2024/hls/93/index.m3u8#http://113.64.146.6:2024/hls/93/index.m3u8#http://113.64.146.94:2024/hls/93/index.m3u8#http://39.135.133.159/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1657e3&tk=822270345d4c#http://211.67.191.23/hls/ybtv/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=c56f18&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=da0ab1&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=334952&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=ab5ca4&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=eed145&tk=822270345d4c#https://stream1.freetv.fun/a26f33a3504d1ef90a6b1750c720fb6b6a0dcab447c91e0afd790b9fe21b2bbf.m3u8#https://stream1.freetv.fun/c0b813fdcf8e35946c0c91e75d6a2ed10a8b9094c02223e4cb83b282c977ef58.ctv
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="🔆移动网专用🔆",甘肃卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226522/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/甘肃卫视.png" group-title="🔆移动网专用🔆",甘肃卫视
