@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-11 01:12:29,http://66.siyba.cn/7KJGE
+2025-05-11 11:22:29,http://66.siyba.cn/7KJGE
 
 🔆央视频道🔆,#genre#
 CCTV1,http://66.siyba.cn/7KJGE
@@ -399,7 +399,7 @@ CCTV4K,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hl
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://58.220.219.14:9901/tsfile/live/0124_1.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://dms.yryyj.site:8188/udp/239.76.246.182:1234#http://110.80.17.38:9901/tsfile/live/0124_1.m3u8#http://wouu.net:9977/udp/239.93.0.124:5140#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://123.138.22.30:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.221.214.82:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://125.89.163.44:8888/udp/239.77.1.33:5146#http://113.56.95.69:53765/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.221.214.82:9901/tsfile/live/0124_1.m3u8#http://nas.hssvm.com:8888/udp/225.1.1.112:5002#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://125.82.168.238:8888/rtp/235.254.198.63:1528#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://113.109.250.108:9999/udp/239.77.0.89:5146#http://wouu.net:9977/udp/239.93.0.124:5140#http://dms.yryyj.site:8188/udp/239.76.246.182:1234#http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111#http://125.82.171.210:8888/rtp/235.254.198.63:1528#http://113.56.95.69:53765/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://125.82.171.210:8888/rtp/235.254.198.18:1348#http://123.138.22.30:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://175.31.21.146:4480/hls/28/index.m3u8#http://125.89.163.44:8888/udp/239.77.1.33:5146#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://125.82.168.238:8888/rtp/235.254.198.18:1348#http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111#http://218.29.168.146:352/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://123.138.22.30:9901/tsfile/live/0124_1.m3u8#http://119.32.12.17:2901/udp/224.1.100.52:11111#http://nas.hssvm.com:8888/udp/225.1.1.112:5002#http://61.156.228.12:8154/tsfile/live/0124_1.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://cc02.tv12.xyz/12.m3u8
 浙江卫视,https://cc05.tv12.xyz/28.m3u8
@@ -1027,7 +1027,7 @@ CCTV4K,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hl
 新疆卫视,http://tvh.990066.xyz/stream/channelid/504116441?profile=pass
 新疆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
-新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&amp;RTS=1668604377&amp;from=40&amp;popid=40&amp;hms_devid=2038&amp;prioritypopid=40&amp;vqe=3
 新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 新疆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
@@ -1538,7 +1538,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 浙江卫视,http://z.b.bkpcp.top/m.php?id=zjws
 浙江卫视,http://goo.bkpcp.top/mg/zjws
 浙江卫视,http://l.cztvcloud.com/channels/lantian/SXpinghu3/720p.m3u8
-浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://58.220.219.14:9901/tsfile/live/0124_1.m3u8#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://dms.yryyj.site:8188/udp/239.76.246.182:1234#http://110.80.17.38:9901/tsfile/live/0124_1.m3u8#http://wouu.net:9977/udp/239.93.0.124:5140#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://123.138.22.30:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.221.214.82:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://125.89.163.44:8888/udp/239.77.1.33:5146#http://113.56.95.69:53765/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://58.221.214.82:9901/tsfile/live/0124_1.m3u8#http://nas.hssvm.com:8888/udp/225.1.1.112:5002#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://125.82.168.238:8888/rtp/235.254.198.63:1528#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://ali-vl.cztv.com/channels/lantian/channel001/360p.m3u8#http://116.9.204.242:9901/tsfile/live/0122_2.m3u8?key=txiptv&playlive=1&authid=0#http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://113.109.250.108:9999/udp/239.77.0.89:5146#http://wouu.net:9977/udp/239.93.0.124:5140#http://dms.yryyj.site:8188/udp/239.76.246.182:1234#http://qjrhc.jydjd.top:2911/udp/224.1.100.51:11111#http://125.82.171.210:8888/rtp/235.254.198.63:1528#http://113.56.95.69:53765/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0#http://125.82.171.210:8888/rtp/235.254.198.18:1348#http://123.138.22.30:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://175.31.21.146:4480/hls/28/index.m3u8#http://125.89.163.44:8888/udp/239.77.1.33:5146#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?#https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8#http://125.82.168.238:8888/rtp/235.254.198.18:1348#http://qjrhc.jydjd.top:2911/udp/224.1.100.52:11111#http://218.29.168.146:352/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0#http://123.138.22.30:9901/tsfile/live/0124_1.m3u8#http://119.32.12.17:2901/udp/224.1.100.52:11111#http://nas.hssvm.com:8888/udp/225.1.1.112:5002#http://61.156.228.12:8154/tsfile/live/0124_1.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 浙江卫视,https://cc02.tv12.xyz/12.m3u8
 浙江卫视,https://cc05.tv12.xyz/28.m3u8
@@ -2085,7 +2085,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 新疆卫视,http://tvh.990066.xyz/stream/channelid/504116441?profile=pass
 新疆卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226460/index.m3u8
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
-新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&RTS=1668604377&from=40&popid=40&hms_devid=2038&prioritypopid=40&vqe=3
+新疆卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0b]/wh7f454c46tw993550557_162751766/ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8?icpid=3&amp;RTS=1668604377&amp;from=40&amp;popid=40&amp;hms_devid=2038&amp;prioritypopid=40&amp;vqe=3
 新疆卫视,http://nas.jdshipin.com:8801/xjtv.php?id=xjws
 新疆卫视,http://cdn.jdshipin.com:8880/ysp.php?id=xjws
 新疆卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001065/index.m3u8
@@ -2192,6 +2192,7 @@ CETV4,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardE
 金鹰卡通,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000006000040024/index.m3u8?channel-id=bestzb&Contentid=5000000006000040024&livemode=1&stbId=3
 金鹰卡通,http://nas.suntao.online:35455/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
+金鹰卡通,http://congtou.top:9292/rtp/239.77.0.164:5146
 卡酷少儿,http://39.134.64.87:6610/PLTV/88888888/224/3221225654/index.m3u8?IASHttpSessionId=
 卡酷少儿,https://cc05.tv12.xyz/103.m3u8
 卡酷少儿,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227212/index.m3u8
