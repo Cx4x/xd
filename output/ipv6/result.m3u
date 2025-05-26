@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="👉卡顿请摁右键切换源👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉卡顿请摁右键切换源👈.png" group-title="🕘️更新时间",2025-05-26 11:17:58
+#EXTINF:-1 tvg-name="👉卡顿请摁右键切换源👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉卡顿请摁右键切换源👈.png" group-title="🕘️更新时间",2025-05-26 18:26:33
 http://66.siyba.cn/8INfX
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 http://66.siyba.cn/8INfX
@@ -2863,6 +2863,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 http://sport.pendy.dpdns.org/migu/923287154?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🔆移动网专用🔆",CETV1
 http://unicom.lynnyang.cn:4022/rtp/239.45.1.125:5140
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🔆移动网专用🔆",CETV1
+https://guangdongcmcc.tv12.xyz/19.m3u8
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="🔆移动网专用🔆",CETV2
 http://39.134.64.87:6610/PLTV/88888888/224/3221226425/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="🔆移动网专用🔆",CETV2
@@ -2891,6 +2893,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226718/1.m3u8
 http://sport.pendy.dpdns.org/migu/923287211?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="🔆移动网专用🔆",CETV2
 http://unicom.lynnyang.cn:4022/rtp/239.45.1.52:5140
+#EXTINF:-1 tvg-name="CETV2" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV2.png" group-title="🔆移动网专用🔆",CETV2
+https://guangdongcmcc.tv12.xyz/20.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网专用🔆",CETV4
 http://39.134.64.87:6610/PLTV/88888888/224/3221225783/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网专用🔆",CETV4
@@ -2921,6 +2925,8 @@ http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 http://sport.pendy.dpdns.org/migu/923287339?token=BCDxUPC2aE0y0iz8JYzYhWA21b8DBPXm4Tw9nHe0T-ftD1MRmsBCXZPPiHXeDz7cNybVmmXGazeeaHKpxyYgEA
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网专用🔆",CETV4
 http://unicom.lynnyang.cn:4022/rtp/239.45.1.243:5140
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网专用🔆",CETV4
+https://guangdongcmcc.tv12.xyz/22.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="🔆移动网专用🔆",北京卫视
 http://66.siyba.cn/bJiaQ
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/北京卫视.png" group-title="🔆移动网专用🔆",北京卫视
