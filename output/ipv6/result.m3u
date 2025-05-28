@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="👉卡顿请摁右键切换源👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉卡顿请摁右键切换源👈.png" group-title="🕘️更新时间",2025-05-28 01:11:21
+#EXTINF:-1 tvg-name="👉卡顿请摁右键切换源👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉卡顿请摁右键切换源👈.png" group-title="🕘️更新时间",2025-05-28 11:20:22
 http://66.siyba.cn/8INfX
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV-1
 http://66.siyba.cn/8INfX
@@ -4331,6 +4331,12 @@ http://congtou.top:9292/rtp/239.77.1.21:5146
 http://13937899.xyz:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🔆移动网专用🔆",睛彩篮球
 http://missyao.com:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🔆移动网专用🔆",睛彩篮球
+http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🔆移动网专用🔆",睛彩篮球
+http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8
+#EXTINF:-1 tvg-name="睛彩篮球" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩篮球.png" group-title="🔆移动网专用🔆",睛彩篮球
+http://m.951688.xyz:35455/itv/2000000003000000061.m3u8
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🔆移动网专用🔆",睛彩青少
 http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="睛彩青少" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/睛彩青少.png" group-title="🔆移动网专用🔆",睛彩青少
@@ -4397,6 +4403,8 @@ http://39.134.64.87:6610/PLTV/88888888/224/3221225717/index.m3u8?IASHttpSessionI
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电影.png" group-title="🔆移动网专用🔆",超级电影
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电影.png" group-title="🔆移动网专用🔆",超级电影
+http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225717/index.m3u8
 #EXTINF:-1 tvg-name="咪咕视频" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/咪咕视频.png" group-title="🔆移动网专用🔆",咪咕视频
 http://39.134.64.87:6610/PLTV/88888888/224/3221226398/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纪实科教.png" group-title="🔆移动网专用🔆",纪实科教
