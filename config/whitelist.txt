@@ -3,40 +3,88 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-CCTV1,https://bit.ly/cctvv1
-CCTV2,https://bit.ly/cctvv2
-CCTV3,https://bit.ly/3HeFn1o
-CCTV4,https://bit.ly/3Z97bKO
-CCTV5,https://bit.ly/4kFfPcc
-CCTV5+,https://bit.ly/3SqTza4
-CCTV6,https://bit.ly/43CM4ls
-CCTV7,https://bit.ly/4dWRn45
-CCTV8,https://bit.ly/4dyuGTi
-CCTV9,https://bit.ly/43yZdMf
-CCTV10,https://cutt.ly/3rbzRaPD
-CCTV11,https://cutt.ly/TrbzRmR3
-CCTV12,https://cutt.ly/rrbzRON6
-CCTV13,https://cutt.ly/VrbzRGot
-CCTV14,https://cutt.ly/LrbzRBgC
-CCTV15,https://cutt.ly/srbzR89n
-CCTV16,https://cutt.ly/xrbzTkNM
-CCTV17,https://cutt.ly/UrbzTQQs
-东方卫视,https://rebrand.ly/c20156
-江苏卫视,https://rebrand.ly/e058f1
-广东卫视,https://rebrand.ly/1df56a
-大湾区卫视,https://rebrand.ly/bdea4a
-江西卫视,https://rebrand.ly/9ecdbb
-河南卫视,https://rebrand.ly/962a79
-陕西卫视,https://rebrand.ly/2e1f8f
-湖北卫视,https://rebrand.ly/81e172
-吉林卫视,https://rebrand.ly/d45785
-青海卫视,https://rebrand.ly/3d502c
-东南卫视,https://tinyurl.com/3dhvudru
-海南卫视,https://tinyurl.com/8an9vdp7
-海峡卫视,https://tinyurl.com/ytzxh837
-上海新闻综合,https://tinyurl.com/mh6vv56v
-上视东方影视,https://tinyurl.com/mrvjbyds
-上海第一财经,https://tinyurl.com/ypdy5xwy
-CHC影迷电影,https://tinyurl.com/m522dpwp
-CHC动作电影,https://tinyurl.com/b34n7crh
-CHC家庭影院,https://tinyurl.com/4zk6b8zv
+CCTV-1 综合,https://bit.ly/cctvv1
+CCTV-2 财经,https://bit.ly/cctvv2
+CCTV-3 综艺,https://bit.ly/3HeFn1o
+CCTV-4 中文国际,https://bit.ly/3Z97bKO
+CCTV-5 体育,https://bit.ly/4kFfPcc
+CCTV-5+ 体育赛事,https://bit.ly/3SqTza4
+CCTV-6 电影,https://bit.ly/43CM4ls
+CCTV-7 国防军事,https://bit.ly/4dWRn45
+CCTV-8 电视剧,https://bit.ly/4dyuGTi
+CCTV-9 纪录,https://bit.ly/43yZdMf
+CCTV-10 科教,https://cutt.ly/3rbzRaPD
+CCTV-11 戏曲,https://cutt.ly/TrbzRmR3
+CCTV-12 社会与法,https://cutt.ly/rrbzRON6
+CCTV-13 新闻,https://cutt.ly/VrbzRGot
+CCTV-14 少儿,https://cutt.ly/LrbzRBgC
+CCTV-15 音乐,https://cutt.ly/srbzR89n
+CCTV-16 奥林匹克,https://cutt.ly/xrbzTkNM
+CCTV-17 农业农村,https://cutt.ly/UrbzTQQs
+东方卫视,https://cutt.ly/Orbcy7Dv
+江苏卫视,https://cutt.ly/HrbcudC8
+广东卫视,https://cutt.ly/GrbcucNZ
+大湾区卫视,https://cutt.ly/srbciViY
+江西卫视,https://cutt.ly/arbci89Q
+河南卫视,https://cutt.ly/Mrbcof1n
+陕西卫视,https://cutt.ly/yrbcoHPQ
+湖北卫视,https://cutt.ly/Wrbco1jc
+吉林卫视,https://cutt.ly/wrbcpejy
+青海卫视,https://cutt.ly/Yrbcph02
+东南卫视,https://cutt.ly/grbcpZ31
+海南卫视,https://cutt.ly/Prbcp9T7
+海峡卫视,https://cutt.ly/arbcaW6i
+上海新闻综合,https://cutt.ly/4rbcaXU3
+上视东方影视,https://cutt.ly/9rbca9Rv
+上海第一财经,https://cutt.ly/KrbcsrT6
+CHC影迷电影,https://cutt.ly/7rbcsQgb
+CHC动作电影,https://cutt.ly/trbcsJJd
+CHC家庭影院,https://cutt.ly/Crbcs7RJ
+
+CCTV-1综合,http://125.118.21.66:4022/udp/233.50.200.130:5140
+CCTV-2财经,http://125.118.21.66:4022/udp/233.50.200.25:5140
+CCTV-3综艺,http://125.118.21.66:4022/udp/233.50.201.196:5140
+CCTV-4中文国际,http://125.118.21.66:4022/udp/233.50.200.101:5140
+CCTV-5体育,http://125.118.21.66:4022/udp/233.50.201.197:5140
+CCTV-6电影,http://125.118.21.66:4022/udp/233.50.201.198:5140
+CCTV-7国防军事,http://125.118.21.66:4022/udp/233.50.200.24:5140
+CCTV-8电视剧,http://125.118.21.66:4022/udp/233.50.201.199:5140
+CCTV-9纪录,http://125.118.21.66:4022/udp/233.50.201.121:5140
+CCTV-10科教,http://125.118.21.66:4022/udp/233.50.201.122:5140
+CCTV-12社会与法,http://125.118.21.66:4022/udp/233.50.201.123:5140
+CCTV-13新闻,http://125.118.21.66:4022/udp/233.50.201.246:5140
+CCTV-14少儿,http://125.118.21.66:4022/udp/233.50.201.124:5140
+CCTV-16奥林匹克,http://125.118.21.66:4022/udp/233.50.201.192:5140
+CCTV-16奥林匹克4K,http://125.118.21.66:4022/udp/233.50.201.63:5140
+CCTV-17农业农村,http://125.118.21.66:4022/udp/233.50.200.113:5140
+CCTV-5+体育赛事,http://125.118.21.66:4022/udp/233.50.201.220:5140
+
+湖南卫视,http://125.118.21.66:4022/udp/233.50.201.103:5140
+江苏卫视,http://125.118.21.66:4022/udp/233.50.201.106:5140
+东方卫视,http://125.118.21.66:4022/udp/233.50.201.125:5140
+湖北卫视,http://125.118.21.66:4022/udp/233.50.201.114:5140
+广东卫视,http://125.118.21.66:4022/udp/233.50.201.102:5140
+北京卫视,http://125.118.21.66:4022/udp/233.50.201.107:5140
+深圳卫视,http://125.118.21.66:4022/udp/233.50.201.101:5140
+天津卫视,http://125.118.21.66:4022/udp/233.50.201.104:5140
+河北卫视,http://125.118.21.66:4022/udp/233.50.201.140:5140
+安徽卫视,http://125.118.21.66:4022/udp/233.50.201.113:5140
+重庆卫视,http://125.118.21.66:4022/udp/233.50.200.114:5140
+云南卫视,http://125.118.21.66:4022/udp/233.50.200.115:5140
+四川卫视,http://125.118.21.66:4022/udp/233.50.201.139:5140
+江西卫视,http://125.118.21.66:4022/udp/233.50.201.145:5140
+黑龙江卫视,http://125.118.21.66:4022/udp/233.50.201.115:5140
+山东卫视,http://125.118.21.66:4022/udp/233.50.201.105:5140
+辽宁卫视,http://125.118.21.66:4022/udp/233.50.201.141:5140
+贵州卫视,http://125.118.21.66:4022/udp/233.50.201.142:5140
+河南卫视,http://125.118.21.66:4022/udp/233.50.201.144:5140
+东南卫视,http://125.118.21.66:4022/udp/233.50.201.146:5140
+上海都市剧场,http://125.118.21.66:4022/udp/233.50.201.190:5140
+上海欢笑剧场,http://125.118.21.66:4022/udp/233.50.201.189:5140
+上海动漫秀场,http://125.118.21.66:4022/udp/233.50.201.184:5140
+上海游戏风云,http://125.118.21.66:4022/udp/233.50.201.183:5140
+上海生活时尚,http://125.118.21.66:4022/udp/233.50.201.187:5140
+上海法治天地,http://125.118.21.66:4022/udp/233.50.201.191:5140
+上海第一财经,http://125.118.21.66:4022/udp/233.50.200.125:5140
+上海乐游纪实,http://125.118.21.66:4022/udp/233.50.201.185:5140
+上海金色学堂,http://125.118.21.66:4022/udp/233.50.201.186:5140
