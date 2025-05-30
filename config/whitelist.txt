@@ -2,3 +2,41 @@
 # 填写频道名称会直接保留该记录至最终结果，如：CCTV-1,接口地址，只填写接口地址则对所有频道生效，多条记录换行输入。
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
+
+CCTV1 综合,https://bit.ly/cctvv1
+CCTV2 财经,https://bit.ly/cctvv2
+CCTV3 综艺,https://bit.ly/3HeFn1o
+CCTV4 中文国际,https://bit.ly/3Z97bKO
+CCTV5 体育,https://bit.ly/4kFfPcc
+CCTV5+ 体育赛事,https://bit.ly/3SqTza4
+CCTV6 电影,https://bit.ly/43CM4ls
+CCTV7 国防军事,https://bit.ly/4dWRn45
+CCTV8 电视剧,https://bit.ly/4dyuGTi
+CCTV9 纪录,https://bit.ly/43yZdMf
+CCTV10 科教,https://cutt.ly/3rbzRaPD
+CCTV11 戏曲,https://cutt.ly/TrbzRmR3
+CCTV12 社会与法,https://cutt.ly/rrbzRON6
+CCTV13 新闻,https://cutt.ly/VrbzRGot
+CCTV14 少儿,https://cutt.ly/LrbzRBgC
+CCTV15 音乐,https://cutt.ly/srbzR89n
+CCTV16 奥林匹克,https://cutt.ly/xrbzTkNM
+CCTV17 农业农村,https://cutt.ly/UrbzTQQs
+东方卫视,https://rebrand.ly/c20156
+江苏卫视,https://rebrand.ly/e058f1
+广东卫视,https://rebrand.ly/1df56a
+大湾区卫视,https://rebrand.ly/bdea4a
+江西卫视,https://rebrand.ly/9ecdbb
+河南卫视,https://rebrand.ly/962a79
+陕西卫视,https://rebrand.ly/2e1f8f
+湖北卫视,https://rebrand.ly/81e172
+吉林卫视,https://rebrand.ly/d45785
+青海卫视,https://rebrand.ly/3d502c
+东南卫视,https://tinyurl.com/3dhvudru
+海南卫视,https://tinyurl.com/8an9vdp7
+海峡卫视,https://tinyurl.com/ytzxh837
+上海新闻综合,https://tinyurl.com/mh6vv56v
+上视东方影视,https://tinyurl.com/mrvjbyds
+上海第一财经,https://tinyurl.com/ypdy5xwy
+CHC影迷电影,https://tinyurl.com/m522dpwp
+CHC动作电影,https://tinyurl.com/b34n7crh
+CHC家庭影院,https://tinyurl.com/4zk6b8zv
