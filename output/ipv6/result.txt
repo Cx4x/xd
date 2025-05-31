@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-05-31 01:09:40,http://125.118.21.66:4022/udp/233.50.200.130:5140
+2025-05-31 11:19:16,http://125.118.21.66:4022/udp/233.50.200.130:5140
 
 🔆央视频道🔆,#genre#
 CCTV-1,http://125.118.21.66:4022/udp/233.50.200.130:5140
@@ -263,7 +263,7 @@ CCTV-12,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/0000000100000006000000000000
 CCTV-12,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS
 CCTV-12,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000377/index.m3u8?IAS
 CCTV-13,http://125.118.21.66:4022/udp/233.50.201.246:5140
-CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://39.164.160.249:9901/tsfile/live/0013_1.m3u8#http://8.138.7.223/tv/dl/douyincdn.php?id=13
 CCTV-13,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-13,http://j.x.bkpcp.top/jx/CCTV13HD
 CCTV-13,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://a21709.tv.netsite.cc/proxy/1942371728/1942371728.m3u8#http://183.94.1.118:8801/tsfile/live/0013_1.m3u8#http://120.192.226.35:8009/hls/13/index.m3u8#http://123.182.60.29:9002/hls/13/index.m3u8#http://61.163.181.78:9901/tsfile/live/0013_1.m3u8#http://61.138.128.226:19901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0#http://36.105.100.208:35455/gaoma/cctv13.m3u8#http://iptv.0564.org:35455/gaoma/cctv13.m3u8#http://3501776.xyz:35455/gaoma/cctv13.m3u8#https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
@@ -371,7 +371,9 @@ CCTV4K,http://[2409:8087:3c02:21:0:1:0:1028]:6610/shandong_cabletv.live.zte.com/
 CCTV4K,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000382/index.m3u8?IAS
 CCTV4K,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hls/4KHD/playlist.m3u8
 CCTV4K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230805/1.m3u8
+CCTV4K,https://nptv.freetv.top/nptv/cctv4k.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
+CCTV8K,https://nptv.freetv.top/nptv/cctv8k.m3u8
 
 🔆卫视频道🔆,#genre#
 北京卫视,http://125.118.21.66:4022/udp/233.50.201.107:5140
@@ -998,7 +1000,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 天津卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001036/index.m3u8
 天津卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 天津卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227205/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#http://wouu.net:9977/udp/239.93.0.175:5140#http://118.122.189.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://nas.hssvm.com:8888/udp/225.1.1.51:5002#http://183.66.15.146:60901/tsfile/live/0111_1.m3u8#http://118.122.189.74:9901/tsfile/live/0111_1.m3u8#http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0120_5.m3u8#http://123.138.22.30:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://qjrhc.jydjd.top:2911/udp/224.1.100.125:11111#http://123.138.22.30:9901/tsfile/live/0111_1.m3u8
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#http://110.53.52.63:8888/newlive/live/hls/36/live.m3u8#http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://nas.hssvm.com:8888/udp/225.1.1.51:5002#http://221.2.148.205:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://qjrhc.jydjd.top:2911/udp/224.1.100.125:11111#http://183.11.239.36:808/hls/64/index.m3u8#http://61.138.128.226:19901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.138.128.226:19901/tsfile/live/0111_1.m3u8#http://218.89.240.144:59901/tsfile/live/0111_1.m3u8#http://113.25.252.226:9901/tsfile/live/1003_1.m3u8#http://124.128.73.58:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 西藏卫视,https://cc02.tv12.xyz/9.m3u8
 西藏卫视,https://cc05.tv12.xyz/59.m3u8
@@ -1324,7 +1326,7 @@ CCTV-12 社会与法,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000
 CCTV-13 新闻,https://cutt.ly/VrbzRGot
 CCTV-13 新闻,http://39.134.64.87:6610/PLTV/88888888/224/3221226571/index.m3u8?IASHttpSessionId=
 CCTV-13 新闻,http://125.118.21.66:4022/udp/233.50.201.246:5140
-CCTV-13 新闻,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV-13 新闻,https://event.pull.hebtv.com/jishi/cp1.m3u8#http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8#http://39.164.160.249:9901/tsfile/live/0013_1.m3u8#http://8.138.7.223/tv/dl/douyincdn.php?id=13
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13
 CCTV-13 新闻,http://j.x.bkpcp.top/jx/CCTV13HD
 CCTV-13 新闻,http://jwplay.hebyun.com.cn/live/cctv13/1500k/tzwj_video.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8#http://a21709.tv.netsite.cc/proxy/1942371728/1942371728.m3u8#http://183.94.1.118:8801/tsfile/live/0013_1.m3u8#http://120.192.226.35:8009/hls/13/index.m3u8#http://123.182.60.29:9002/hls/13/index.m3u8#http://61.163.181.78:9901/tsfile/live/0013_1.m3u8#http://61.138.128.226:19901/tsfile/live/0013_2.m3u8?key=txiptv&playlive=1&authid=0#http://36.105.100.208:35455/gaoma/cctv13.m3u8#http://iptv.0564.org:35455/gaoma/cctv13.m3u8#http://3501776.xyz:35455/gaoma/cctv13.m3u8#https://api.olelive.com/dis/live/CCTV13HD/hls.m3u8
@@ -1942,7 +1944,7 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000
 山西卫视,https://tv.bfsu.edu.cn/hls/sxrtv.m3u8
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1746307365&amp;key=3eeaa00e3276abf097ceb1bb753ca265
 西藏卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226433/index.m3u8?IASHttpSessionId=
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#http://wouu.net:9977/udp/239.93.0.175:5140#http://118.122.189.74:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://nas.hssvm.com:8888/udp/225.1.1.51:5002#http://183.66.15.146:60901/tsfile/live/0111_1.m3u8#http://118.122.189.74:9901/tsfile/live/0111_1.m3u8#http://58.220.219.14:9901/tsfile/live/0120_5.m3u8?key=txiptv&playlive=1&authid=0#http://58.220.219.14:9901/tsfile/live/0120_5.m3u8#http://123.138.22.30:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://qjrhc.jydjd.top:2911/udp/224.1.100.125:11111#http://123.138.22.30:9901/tsfile/live/0111_1.m3u8
+西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws#http://110.53.52.63:8888/newlive/live/hls/36/live.m3u8#http://124.128.73.58:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://nas.hssvm.com:8888/udp/225.1.1.51:5002#http://221.2.148.205:8154/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://qjrhc.jydjd.top:2911/udp/224.1.100.125:11111#http://183.11.239.36:808/hls/64/index.m3u8#http://61.138.128.226:19901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.138.128.226:19901/tsfile/live/0111_1.m3u8#http://218.89.240.144:59901/tsfile/live/0111_1.m3u8#http://113.25.252.226:9901/tsfile/live/1003_1.m3u8#http://124.128.73.58:9901/tsfile/live/0111_1.m3u8
 西藏卫视,http://z.b.bkpcp.top/m.php?id=xzws
 西藏卫视,https://cc02.tv12.xyz/9.m3u8
 西藏卫视,https://cc05.tv12.xyz/59.m3u8
@@ -1977,7 +1979,7 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000
 兵团卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 兵团卫视,http://tvbox6.com/tv/bfgd.php?id=124
 兵团卫视,http://[2409:8087:74d9:21::4]/270000001128/index.m3u8?cmcc_cid=9900000059
-兵团卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000059/index.m3u8
+兵团卫视,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226699/index.m3u8
 兵团卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226214/index.m3u8
 兵团卫视,http://tv.scjyhd.com:4022/udp/239.93.42.43:5140
 兵团卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?
@@ -2158,6 +2160,10 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000
 睛彩竞技,http://rrs01.hw.gmcc.net:8088/PLTV/116/224/3221226870/index.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8
 睛彩竞技,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+睛彩竞技,http://dsj.motem.top:8880/itv/3000000020000011528.m3u8?cdn=FifastbLive
+睛彩竞技,http://13937899.xyz:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+睛彩竞技,http://missyao.com:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
+睛彩竞技,http://zjzcf.synology.me:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩篮球,https://cc05.tv12.xyz/116.m3u8
@@ -2175,6 +2181,8 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000
 睛彩篮球,http://[2409:8087:74d6:22::7]:6410/270000001128/9900000118/index.m3u8
 睛彩篮球,http://[2409:8087:5e08:24::15]:6610/000000001000/3000000020000011529/index.m3u8
 睛彩篮球,http://m.951688.xyz:35455/itv/2000000003000000061.m3u8
+睛彩篮球,http://dsj.motem.top:8880/itv/3000000020000011529.m3u8?cdn=FifastbLive
+睛彩篮球,http://zjzcf.synology.me:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩青少,http://39.134.64.87:6610/PLTV/88888888/224/3221226508/index.m3u8?IASHttpSessionId=
 睛彩青少,https://cc05.tv12.xyz/117.m3u8
 睛彩青少,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010147
