@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-10 01:14:46,http://suo.im/dnPR0
+2025-06-10 11:35:03,http://suo.im/dnPR0
 
 🔆央视频道🔆,#genre#
 CCTV-1,http://suo.im/dnPR0
@@ -1147,7 +1147,7 @@ CCTV-3 综艺,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/inde
 CCTV-4 中文国际,http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
 CCTV-4 中文国际,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010017
 CCTV-4 中文国际,https://ling.uus10000.top/780.m3u8
-CCTV-4 中文国际,https://migu.tv12.xyz/4.m3u8
+CCTV-4 中文国际,https://migu.tv12.xyz/18.m3u8
 CCTV-4 中文国际,https://cc05.tv12.xyz/4.m3u8
 CCTV-4 中文国际,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227235/index.m3u8
 CCTV-4 中文国际,https://cc06.tv12.xyz/4.m3u8
