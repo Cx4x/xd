@@ -48,24 +48,7 @@ CHC动作电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC动作电影$!
 CHC影迷电影,http://qwt.zhibotv.top:2016/全网通.php?id=CHC影迷电影$!
 CHC家庭影院,http://qwt.zhibotv.top:2016/全网通.php?id=CHC家庭影院$!
 
-CCTV-1,http://148.135.93.213/live.php?id=CCTV-1$!
-CCTV-2,http://148.135.93.213/live.php?id=CCTV-2$!
-CCTV-3,http://148.135.93.213/live.php?id=CCTV-3$!
-CCTV-4,http://148.135.93.213/live.php?id=CCTV-4$!
-CCTV-5,http://148.135.93.213/live.php?id=CCTV-5$!
-CCTV-5+,http://148.135.93.213/live.php?id=CCTV-5p$!
-CCTV-6,http://148.135.93.213/live.php?id=CCTV-6$!
-CCTV-7,http://148.135.93.213/live.php?id=CCTV-7$!
-CCTV-8,http://148.135.93.213/live.php?id=CCTV-8$!
-CCTV-9,http://148.135.93.213/live.php?id=CCTV-9$!
-CCTV-10,http://148.135.93.213/live.php?id=CCTV-10$!
-CCTV-11,http://148.135.93.213/live.php?id=CCTV-11$!
-CCTV-12,http://148.135.93.213/live.php?id=CCTV-12$!
-CCTV-13,http://148.135.93.213/live.php?id=CCTV-13$!
-CCTV-14,http://148.135.93.213/live.php?id=CCTV-14$!
-CCTV-15,http://148.135.93.213/live.php?id=CCTV-15$!
-CCTV-16,http://148.135.93.213/live.php?id=CCTV-16$!
-CCTV-17,http://148.135.93.213/live.php?id=CCTV-17$!
+
 北京卫视,http://148.135.93.213/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
 湖南卫视,http://148.135.93.213/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
 浙江卫视,http://148.135.93.213/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
