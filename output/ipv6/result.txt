@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-17 18:05:49,http://115.190.105.236:8123/live/cctv1?token=OK
+2025-06-18 01:09:19,http://115.190.105.236:8123/live/cctv1?token=OK
 
 🔆央视频道🔆,#genre#
 CCTV1,http://115.190.105.236:8123/live/cctv1?token=OK
