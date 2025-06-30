@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-30 11:29:48,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+2025-06-30 18:11:41,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
 
 🔆央视频道🔆,#genre#
 CCTV1,http://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
@@ -2123,6 +2123,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 山东教育,https://wx65267199.tv12.xyz/61.m3u8
 山东教育,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000002000004097/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000002000004097
 山东教育,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
+山东教育,https://cc09.tv12.xyz/108.m3u8
 安多卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225659/index.m3u8?IASHttpSessionId=
 安多卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225659
 安多卫视,https://cc05.tv12.xyz/98.m3u8
@@ -2139,6 +2140,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 安多卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225659/2.m3u8
 安多卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000005000266001/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=1000000005000266001
 安多卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
+安多卫视,https://cc09.tv12.xyz/98.m3u8
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
 康巴卫视,https://cc05.tv12.xyz/96.m3u8
@@ -2174,6 +2176,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 睛彩竞技,https://fenghuang.tv12.xyz/77.m3u8
 睛彩竞技,http://n1.gzbody.com:85/rtp/239.77.1.20:5146
 睛彩竞技,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227417/index.m3u8
+睛彩竞技,https://cc09.tv12.xyz/115.m3u8
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226147/index.m3u8?IASHttpSessionId=
 睛彩篮球,http://39.134.64.87:6610/PLTV/88888888/224/3221226469/index.m3u8?IASHttpSessionId=
 睛彩篮球,https://cc05.tv12.xyz/116.m3u8
@@ -2204,12 +2207,14 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 睛彩青少,https://fenghuang.tv12.xyz/79.m3u8
 睛彩青少,http://n1.gzbody.com:85/rtp/239.77.1.22:5146
 睛彩青少,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227420/index.m3u8
+睛彩青少,https://cc09.tv12.xyz/117.m3u8
 睛彩广场舞,http://39.134.64.87:6610/PLTV/88888888/224/3221226472/index.m3u8?IASHttpSessionId=
 睛彩广场舞,https://cc05.tv12.xyz/118.m3u8
 睛彩广场舞,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 睛彩广场舞,http://ott.mobaibox.com/PLTV/4/224/3221228231/index.m3u8
 睛彩广场舞,http://n1.gzbody.com:85/rtp/239.77.1.23:5146
 睛彩广场舞,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227423/index.m3u8
+睛彩广场舞,https://cc09.tv12.xyz/118.m3u8
 超级综艺,http://39.134.64.87:6610/PLTV/88888888/224/3221225714/index.m3u8?IASHttpSessionId=
 超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1044c9&tk=822270345d4c
 超级综艺,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8#http://39.134.65.106/PLTV/88888888/224/3221225642/1.m3u8?#http://111.29.9.34:6610/000000001000/1000000001000025771/index.m3u8?channel-id=ystenlive&Contentid=1000000001000025771&livemode=1&stbId=3#http://39.134.65.73:80/PLTV/88888888/224/3221225550/1.m3u8#http://39.135.133.157:80/PLTV/88888888/224/3221225642/1.m3u8#http://39.135.133.157:80/PLTV/88888888/224/3221225550/1.m3u8#http://39.135.133.174:80/PLTV/88888888/224/3221225550/1.m3u8#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225714/index.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1044c9&tk=822270345d4c#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=6498&tk=a0c4f6cfaba3#http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
@@ -2274,6 +2279,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 黑莓电影,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225764/2/index.m3u8
 黑莓电影,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,https://fenghuang.tv12.xyz/69.m3u8
+黑莓电影,https://cc09.tv12.xyz/111.m3u8
 黑莓动画,http://39.134.64.87:6610/PLTV/88888888/224/3221225662/index.m3u8?IASHttpSessionId=
 黑莓动画,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010002
 黑莓动画,https://cc05.tv12.xyz/112.m3u8
@@ -2287,6 +2293,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 黑莓动画,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 黑莓动画,http://ott.mobaibox.com/PLTV/1/224/3221225555/1.m3u8
 黑莓动画,https://fenghuang.tv12.xyz/70.m3u8
+黑莓动画,https://cc09.tv12.xyz/112.m3u8
 金鹰卡通,http://39.134.64.87:6610/PLTV/88888888/224/3221225653/index.m3u8?IASHttpSessionId=
 金鹰卡通,https://cc05.tv12.xyz/100.m3u8
 金鹰卡通,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226624/index.m3u8
@@ -2373,21 +2380,26 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 惊悚悬疑,https://cc05.tv12.xyz/123.m3u8
 惊悚悬疑,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 惊悚悬疑,http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+惊悚悬疑,https://cc09.tv12.xyz/123.m3u8
 军事评论,http://39.134.64.87:6610/PLTV/88888888/224/3221225668/index.m3u8?IASHttpSessionId=
 军事评论,https://cc05.tv12.xyz/130.m3u8
 军事评论,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
 军事评论,http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+军事评论,https://cc09.tv12.xyz/130.m3u8
 精品大剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225670/index.m3u8?IASHttpSessionId=
 精品大剧,https://cc05.tv12.xyz/127.m3u8
 精品大剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
+精品大剧,https://cc09.tv12.xyz/127.m3u8
 海外剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225671/index.m3u8?IASHttpSessionId=
 海外剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 精品纪录,http://39.134.64.87:6610/PLTV/88888888/224/3221225672/index.m3u8?IASHttpSessionId=
 精品纪录,https://cc05.tv12.xyz/132.m3u8
 精品纪录,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
+精品纪录,https://cc09.tv12.xyz/132.m3u8
 怡伴健康,http://39.134.64.87:6610/PLTV/88888888/224/3221225673/index.m3u8?IASHttpSessionId=
 怡伴健康,https://cc05.tv12.xyz/133.m3u8
 怡伴健康,http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+怡伴健康,https://cc09.tv12.xyz/133.m3u8
 精品体育,http://39.134.64.87:6610/PLTV/88888888/224/3221225674/index.m3u8?IASHttpSessionId=
 精品体育,https://cc05.tv12.xyz/134.m3u8
 精品体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
@@ -2395,18 +2407,22 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 精品体育,http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+精品体育,https://cc09.tv12.xyz/134.m3u8
 哒啵电竞,http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
 哒啵电竞,https://cc05.tv12.xyz/114.m3u8
 哒啵电竞,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000032327
 哒啵电竞,http://rrs02.hw.gmcc.net:8088/PLTV/27/224/3221226891/index.m3u8
+哒啵电竞,https://cc09.tv12.xyz/114.m3u8
 军旅剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225676/index.m3u8?IASHttpSessionId=
 军旅剧场,https://cc05.tv12.xyz/121.m3u8
 军旅剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 军旅剧场,http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+军旅剧场,https://cc09.tv12.xyz/121.m3u8
 家庭剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225677/index.m3u8?IASHttpSessionId=
 家庭剧场,https://cc05.tv12.xyz/122.m3u8
 家庭剧场,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
 家庭剧场,http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+家庭剧场,https://cc09.tv12.xyz/122.m3u8
 武搏世界,http://39.134.64.87:6610/PLTV/88888888/224/3221225680/index.m3u8?IASHttpSessionId=
 武搏世界,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 中国功夫,http://39.134.64.87:6610/PLTV/88888888/224/3221225681/index.m3u8?IASHttpSessionId=
@@ -2414,14 +2430,17 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 中国功夫,https://live.iill.top/huya/11352941
 中国功夫,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 中国功夫,http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+中国功夫,https://cc09.tv12.xyz/128.m3u8
 农业致富,http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionId=
 农业致富,https://cc05.tv12.xyz/131.m3u8
 农业致富,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
 农业致富,http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+农业致富,https://cc09.tv12.xyz/131.m3u8
 潮妈辣婆,http://39.134.64.87:6610/PLTV/88888888/224/3221225685/index.m3u8?IASHttpSessionId=
 潮妈辣婆,https://cc05.tv12.xyz/135.m3u8
 潮妈辣婆,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 潮妈辣婆,http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+潮妈辣婆,https://cc09.tv12.xyz/135.m3u8
 东北热剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225741/index.m3u8?IASHttpSessionId=
 东北热剧,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
 欢乐剧场,http://39.134.64.87:6610/PLTV/88888888/224/3221225742/index.m3u8?IASHttpSessionId=
@@ -2429,3 +2448,4 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 精品萌宠,http://39.134.64.87:6610/PLTV/88888888/224/3221226505/index.m3u8?IASHttpSessionId=
 精品萌宠,https://cc05.tv12.xyz/110.m3u8
 精品萌宠,http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+精品萌宠,https://cc09.tv12.xyz/110.m3u8
