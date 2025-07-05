@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-05 01:03:38
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-05 11:18:17
 https://my5353.com/7pK8T
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV1
 https://my5353.com/7pK8T
@@ -4445,6 +4445,8 @@ http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010062/1.m3u8
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010062/
 #EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级综艺.png" group-title="🔆移动网专用🔆",超级综艺
 http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010062/
+#EXTINF:-1 tvg-name="超级综艺" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级综艺.png" group-title="🔆移动网专用🔆",超级综艺
+https://fenghuang.tv12.xyz/23.m3u8
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🔆移动网专用🔆",超级体育
 http://39.134.64.87:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🔆移动网专用🔆",超级体育
@@ -4463,6 +4465,8 @@ http://www.terrykang.xyz:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8#http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226348/1.m3u8#http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive#http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8#http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225622/2/index.m3u8#http://36.105.100.208:35455/itv/1000000001000009601.m3u8?cdn=ystenlive#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3188&tk=23a9aca1f79f
 #EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🔆移动网专用🔆",超级体育
 http://yc.myds.me:35455/itv/1000000001000009601.m3u8?cdn=ystenlive
+#EXTINF:-1 tvg-name="超级体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级体育.png" group-title="🔆移动网专用🔆",超级体育
+https://fenghuang.tv12.xyz/22.m3u8
 #EXTINF:-1 tvg-name="超级电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电视剧.png" group-title="🔆移动网专用🔆",超级电视剧
 http://39.134.64.87:6610/PLTV/88888888/224/3221225716/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="超级电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/超级电影.png" group-title="🔆移动网专用🔆",超级电影
@@ -4805,6 +4809,8 @@ http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 #EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🔆移动网专用🔆",精品体育
 https://cc09.tv12.xyz/134.m3u8
+#EXTINF:-1 tvg-name="精品体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/精品体育.png" group-title="🔆移动网专用🔆",精品体育
+https://fenghuang.tv12.xyz/37.m3u8
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/哒啵电竞.png" group-title="🔆移动网专用🔆",哒啵电竞
 http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="哒啵电竞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/哒啵电竞.png" group-title="🔆移动网专用🔆",哒啵电竞
