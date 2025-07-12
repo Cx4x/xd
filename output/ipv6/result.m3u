@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-12 11:30:15
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-07-12 17:56:23
 https://my5353.com/7pK8T
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV1
 https://my5353.com/7pK8T
@@ -4927,6 +4927,8 @@ https://cc09.tv12.xyz/128.m3u8
 http://cc09.tv12.xyz/128.m3u8
 #EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国功夫.png" group-title="🔆移动网专用🔆",中国功夫
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:-1 tvg-name="中国功夫" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中国功夫.png" group-title="🔆移动网专用🔆",中国功夫
+http://tv.666150.xyz/huya.php?id=11352941
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/农业致富.png" group-title="🔆移动网专用🔆",农业致富
 http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-name="农业致富" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/农业致富.png" group-title="🔆移动网专用🔆",农业致富

@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-12 11:30:15,https://my5353.com/7pK8T
+2025-07-12 17:56:23,https://my5353.com/7pK8T
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/7pK8T
@@ -2469,6 +2469,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 中国功夫,https://cc09.tv12.xyz/128.m3u8
 中国功夫,http://cc09.tv12.xyz/128.m3u8
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
+中国功夫,http://tv.666150.xyz/huya.php?id=11352941
 农业致富,http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionId=
 农业致富,https://cc05.tv12.xyz/131.m3u8
 农业致富,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
