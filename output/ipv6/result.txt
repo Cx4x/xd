@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-21 11:40:07,https://bit.ly/CCTV1
+2025-07-21 18:19:56,https://bit.ly/CCTV1
 
 🔆央视频道🔆,#genre#
 CCTV1,https://bit.ly/CCTV1
@@ -628,7 +628,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://goo.bkpcp.top/mg/gxws
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,https://cc05.tv12.xyz/26.m3u8
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&servicetype=1
 广西卫视,https://cc06.tv12.xyz/46.m3u8
@@ -718,7 +718,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-21187
 河南卫视,http://yc.myds.me:35455/itv/5000000011000031119.m3u8?cdn=bestzb
 河南卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887270.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e65e571b81747adaf1b4198ee57af848&wsTime=1743598817&wsSession=e01c5450b223b80ddc3f0811-174358441798695&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=357a5d87ff28a44589888ac9ead278bf&wsTime=1753084814#http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://1.94.31.214/php/hntv.php?id=hnws#http://218.89.240.144:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=8cfda6b4bd8593bb9739434fecdd1cd097ab9b9609ed72d6de4ca14196c33fbc5ea88d4dae5a4c8a359213f9affc7ab2cf675a934561839e4060ba75bd56e43da713a62e3ebabc4ced1c770bca#http://223.241.247.214:9901/tsfile/live/0139_1.m3u8#http://58.19.43.46:9901/tsfile/live/1006_1.m3u8#http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv#http://nas.hssvm.com:8888/udp/225.1.2.61:5002#http://61.156.228.12:8154/tsfile/live/0139_1.m3u8#http://113.25.252.226:9901/tsfile/live/0139_1.m3u8#http://221.2.148.205:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.138.128.226:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
@@ -1429,7 +1429,6 @@ CCTV-17 农业农村,http://[2409:8087:5e00:24::1f]:6060/ZTE_CMS/000000010000000
 CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000494/index.m3u8?IAS
 北京卫视,https://cc02.tv12.xyz/1.m3u8
 北京卫视,http://118.89.87.74:88/live.php?id=北京卫视
-北京卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=
 北京卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010143
 北京卫视,http://z.b.bkpcp.top/m.php?id=bjws
 北京卫视,http://j.x.bkpcp.top/jx/BEIJHD
@@ -1447,6 +1446,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 北京卫视,http://[2409:8087:1a0a:df::404b]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 北京卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010143/1.m3u8?
 北京卫视,http://lu.wqwqwq.sbs/itv/1000000005000265027.m3u8?cdn=ystenlive
+北京卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
 湖南卫视,https://my5353.com/eqiNk
 湖南卫视,https://my5353.com/rZuyF
 湖南卫视,http://118.89.87.74:88/live.php?id=湖南卫视
@@ -1682,7 +1682,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 河南卫视,http://yc.myds.me:35455/itv/5000000011000031119.m3u8?cdn=bestzb
 河南卫视,http://nas.suntao.online:35455/bptv/10000100000000050000000003887270.m3u8
 河南卫视,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226480/index.m3u8
-河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=e65e571b81747adaf1b4198ee57af848&wsTime=1743598817&wsSession=e01c5450b223b80ddc3f0811-174358441798695&wsIPSercert=965199407363e75c3ccb566d6f002965&wsiphost=local&wsBindIP=1
+河南卫视,http://tvcdn.stream3.hndt.com/tv/65c4a6d5017e1000b2b6ea2500000000_transios/playlist.m3u8?wsSecret=357a5d87ff28a44589888ac9ead278bf&wsTime=1753084814#http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8#http://1.94.31.214/php/hntv.php?id=hnws#http://218.89.240.144:59901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
 河南卫视,https://www.freetv.top/migu/790187291.m3u8?migutoken=8cfda6b4bd8593bb9739434fecdd1cd097ab9b9609ed72d6de4ca14196c33fbc5ea88d4dae5a4c8a359213f9affc7ab2cf675a934561839e4060ba75bd56e43da713a62e3ebabc4ced1c770bca#http://223.241.247.214:9901/tsfile/live/0139_1.m3u8#http://58.19.43.46:9901/tsfile/live/1006_1.m3u8#http://124.128.73.58:9901/tsfile/live/0139_1.m3u8?key=txiptv#http://nas.hssvm.com:8888/udp/225.1.2.61:5002#http://61.156.228.12:8154/tsfile/live/0139_1.m3u8#http://113.25.252.226:9901/tsfile/live/0139_1.m3u8#http://221.2.148.205:8154/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://61.138.128.226:19901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0#http://222.169.85.8:9901/tsfile/live/0139_1.m3u8
 河南卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226480/index.m3u8
 河南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
@@ -1812,7 +1812,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 广西卫视,http://z.b.bkpcp.top/m.php?id=gxws
 广西卫视,https://mobilelive.gxtv.cn/live/gx_live1004/playlist.m3u8
 广西卫视,http://goo.bkpcp.top/mg/gxws
-广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8#http://221.2.148.205:8154/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
 广西卫视,https://cc05.tv12.xyz/26.m3u8
 广西卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&servicetype=1
 广西卫视,https://cc06.tv12.xyz/46.m3u8
