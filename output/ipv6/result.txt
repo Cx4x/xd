@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-07-28 01:13:46,https://my5353.com/CixEZ
+2025-07-28 11:49:23,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2487,6 +2487,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 中国功夫,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
 中国功夫,http://tv.666150.xyz/huya.php?id=11352941
 中国功夫,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225690/index.m3u8?servicetype=1
+中国功夫,http://tv123.top:35455/huya/11352941
 农业致富,http://39.134.64.87:6610/PLTV/88888888/224/3221225683/index.m3u8?IASHttpSessionId=
 农业致富,https://cc05.tv12.xyz/131.m3u8
 农业致富,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8
