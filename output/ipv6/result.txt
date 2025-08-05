@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-05 01:18:23,https://my5353.com/CixEZ
+2025-08-05 11:53:09,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -373,6 +373,7 @@ CCTV4K,https://www.nettvpro.xyz/player/videojs.php?url=https://liveop.cctv.cn/hl
 CCTV4K,http://n1.gzbody.com:85/rtp/239.77.0.174:5146
 CCTV4K,https://hls-gateway.vpstv.net/streams/708821.m3u8
 CCTV4K,http://macyx.top:35455/gaoma/cctv4k.m3u8
+CCTV4K,http://lml1971.cn:35455/bst/cctv4k@15000000.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 
 🔆卫视频道🔆,#genre#
@@ -2146,6 +2147,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 安多卫视,http://hwottcdn.ln.chinamobile.com/PLTV/11/224/3221227160/index.m3u8
 安多卫视,https://cc09.tv12.xyz/98.m3u8
 安多卫视,http://cc09.tv12.xyz/98.m3u8
+安多卫视,http://lml1971.cn:35455/bst/adws2d5m@2500000.m3u8
 康巴卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221225660/index.m3u8?IASHttpSessionId=
 康巴卫视,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000005000266002
 康巴卫视,https://cc05.tv12.xyz/96.m3u8
