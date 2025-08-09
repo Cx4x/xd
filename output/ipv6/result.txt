@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-09 01:25:27,https://my5353.com/CixEZ
+2025-08-09 11:31:56,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2463,6 +2463,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/000000010000000
 精品体育,http://cc09.tv12.xyz/134.m3u8
 精品体育,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225724/index.m3u8?servicetype=1
 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
+精品体育,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 哒啵电竞,http://39.134.64.87:6610/PLTV/88888888/224/3221225675/index.m3u8?IASHttpSessionId=
 哒啵电竞,https://cc05.tv12.xyz/114.m3u8
 哒啵电竞,http://php.jdshipin.com/itv6.php?cid=ystenlive&id=1000000006000032327
