@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-08-22 18:25:37,https://my5353.com/CixEZ
+2025-08-23 01:14:08,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2319,6 +2319,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 睛彩竞技,http://zjzcf.synology.me:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩竞技,https://fenghuang.tv12.xyz/77.m3u8
 睛彩竞技,http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8
+睛彩竞技,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270001/1.m3u8
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 睛彩篮球,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
