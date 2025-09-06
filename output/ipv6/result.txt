@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-06 18:02:05,https://my5353.com/CixEZ
+2025-09-07 01:00:20,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -1135,6 +1135,7 @@ CCTV-2,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000
 CCTV-2,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?
 CCTV-3,https://zby.130519.xyz/PLTV/11/224/3221225766/index.m3u8
 CCTV-3,http://118.89.87.74:88/live.php?id=CCTV3
+CCTV-3,https://my5353.com/nNPxT
 CCTV-3,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010212
 CCTV-3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
 CCTV-3,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
@@ -1152,7 +1153,6 @@ CCTV-3,http://tvh.990066.xyz/stream/channelid/239163808?profile=pass
 CCTV-3,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-3,http://goo.bkpcp.top/mg/cctv3
 CCTV-3,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2/index.m3u8
-CCTV-3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
 CCTV-4,https://zby.130519.xyz/PLTV/11/224/3221226124/index.m3u8
 CCTV-4,https://my5353.com/551na
 CCTV-4,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010017
@@ -1255,6 +1255,7 @@ CCTV-7,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSM
 CCTV-7,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?
 CCTV-8,https://zby.130519.xyz/PLTV/11/224/3221225736/index.m3u8
 CCTV-8,http://118.89.87.74:88/live.php?id=CCTV8
+CCTV-8,https://my5353.com/LGiKb
 CCTV-8,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010216
 CCTV-8,http://goo.bkpcp.top/mg/cctv8
 CCTV-8,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8
@@ -1272,7 +1273,6 @@ CCTV-8,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV-8,http://tvh.990066.xyz/stream/channelid/234758648?profile=pass
 CCTV-8,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-8,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
-CCTV-8,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
 CCTV-9,https://my5353.com/v8FyL
 CCTV-9,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010052
 CCTV-9,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
@@ -2444,6 +2444,7 @@ CCTV-2 财经,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/0000000100000006000000
 CCTV-2 财经,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000372/index.m3u8?
 CCTV-3 综艺,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV-3 综艺,http://118.89.87.74:88/live.php?id=CCTV3
+CCTV-3 综艺,https://my5353.com/nNPxT
 CCTV-3 综艺,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010212
 CCTV-3 综艺,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
 CCTV-3 综艺,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
@@ -2461,7 +2462,6 @@ CCTV-3 综艺,http://tvh.990066.xyz/stream/channelid/239163808?profile=pass
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3
 CCTV-3 综艺,http://goo.bkpcp.top/mg/cctv3
 CCTV-3 综艺,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225647/2/index.m3u8
-CCTV-3 综艺,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
 CCTV-4 中文国际,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
 CCTV-4 中文国际,https://my5353.com/551na
 CCTV-4 中文国际,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010017
@@ -2564,6 +2564,7 @@ CCTV-7 国防军事,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5
 CCTV-7 国防军事,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000380/index.m3u8?
 CCTV-8 电视剧,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
 CCTV-8 电视剧,http://118.89.87.74:88/live.php?id=CCTV8
+CCTV-8 电视剧,https://my5353.com/LGiKb
 CCTV-8 电视剧,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010216
 CCTV-8 电视剧,http://goo.bkpcp.top/mg/cctv8
 CCTV-8 电视剧,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8
@@ -2581,7 +2582,6 @@ CCTV-8 电视剧,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88
 CCTV-8 电视剧,http://tvh.990066.xyz/stream/channelid/234758648?profile=pass
 CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-8 电视剧,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225631/2/index.m3u8
-CCTV-8 电视剧,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
 CCTV-9 纪录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
 CCTV-9 纪录,https://my5353.com/v8FyL
 CCTV-9 纪录,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010052
