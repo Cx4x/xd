@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-13 01:05:16,https://my5353.com/CixEZ
+2025-09-13 10:46:03,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2153,6 +2153,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 新闻综合,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&Ace
 新闻综合,https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=2c1df649aa4a05375c169ba80b0e1237948ea4ca1f76374295c3a13814b384753f3baf0671b15276cc4e08d3b8cc736174d9e248cc91974b4a90971bb67c1980a21d82ed456a9630f45e87f4b0
 新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&tm=1757355490&token=a88466c8c0d3788d333987df991cb29c1bbdcede9924a8d3026202c22940b447704ff2c9123c66b2c48ec34b9f837524f69b99aff7581076d033af2d938587885b364200fd4b1194f2dea477e1
+新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202509120900331e2e7bb14f1e421c8aac2841c86436d6&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250912090033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250912090033&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=47645c85b77a146c8a04f7099aebb6de&ddCalcu=e4d7e661b41b50eca8959b0777fa4104a68c
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
@@ -2170,6 +2171,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 第一财经,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&Ace
 第一财经,https://mursor.ottiptv.cc/migu/608780988.m3u8?migutoken=7c61765857deba36348b33b70960be142ad01112a576887cba46c30e7069797b60d888f8f8dde583e0fd4fc58620a1fe2e530a64d73661591405b25881e40fcc2c1fe608d3cc0e259c8c00d297
 第一财经,https://mgtv.ottiptv.cc/mg/608780988.m3u8?sign=ca5073dfefabd07a3a44b30ca200c375&tm=1757355490&token=e12a9094e382415fed09673baf28a61946fd64f2b5cde215006fe2de44af0039ea71d14ca59989349864375e065f2f92bd0051dc7a3ec5ac60049cc02e57ce94eabe732283369ac89b87cbb618
+第一财经,http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20250912090033c5cb12069b0f4f78976842450cc71d28&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250912090033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250912090033&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ab616424a6e9c9395fed4a58d4ddf7b7&ddCalcu=7abbe761f18d60d442d48a56ae49dce9f359
 五星体育,https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 五星体育,http://k.061899.xyz/m.php?id=wxty
 五星体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000007
@@ -2323,6 +2325,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 嘉佳卡通,http://rustdesk.szsun.xyz:8088/udp/239.77.0.179:5146
 嘉佳卡通,https://mgtv.ottiptv.cc/mg/614952364.m3u8?token=fb3da77936da491a6e98d76b2dbdf5cc1fd77c2a994b695132fe42d0d63f5525c95568b818d2d9a543aa2987ac099f4d8a5667122f26c6ebc97c357818a0283480055252c1542a5d5ef7045645&tm=1757363644&sign=240b1e3117226447fc8c34590bd271b7
 嘉佳卡通,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8?
+嘉佳卡通,http://gslbmgsplive.miguvideo.com/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?msisdn=20250912090037bb9a0d5e90694017b50f840c04002604&mdspid=&spid=699054&netType=0&sid=2206172388&pid=2028597139&timestamp=20250912090037&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=614952364&ParentNodeID=-99&assertID=2206172388&client_ip=106.13.250.88&SecurityKey=20250912090037&promotionId=&mvid=2206172388&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=149b1345550c3372309e3bc5f0649d3e&ddCalcu=e134ed919b44106304f555c5b03ce3930732
 乐游频道,https://zby.130519.xyz/PLTV/11/224/3221226157/index.m3u8
 乐游频道,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226536/index.m3u8
 乐游频道,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031112
