@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-18 11:00:18
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-09-18 18:20:20
 https://my5353.com/CixEZ
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV1
 https://my5353.com/CixEZ
@@ -3900,6 +3900,8 @@ https://zby.130519.xyz/PLTV/11/224/3221226111/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆移动网络专用🔆",兵团卫视
 http://8.138.7.223/tv/btws.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://my5353.com/7Z1HP
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆移动网络专用🔆",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?u8key=txiptv#https://my5353.com/7Z1HP
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆移动网络专用🔆",兵团卫视
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆移动网络专用🔆",兵团卫视
 https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=3be33fcea1bddf67b19a5f25725dad8d5ba598f7738c50fdaca616f8b9fc7d12b859300bfd0a7f7c35bef766861445a17502f1029f70aaf939d44cfb9e9d3fe7855e926884cad0b86a1a75f0a2
@@ -3931,8 +3933,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227168/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆移动网络专用🔆",兵团卫视
 http://wouu.net:9977/udp/239.93.42.43:5140
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆移动网络专用🔆",兵团卫视
-http://tvbox6.com/tv/bfgd.php?id=124
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="🔆移动网络专用🔆",山西卫视
 https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
 #EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/山西卫视.png" group-title="🔆移动网络专用🔆",山西卫视
@@ -6652,6 +6652,8 @@ http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆V6网络专用🔆",兵团卫视
 http://8.138.7.223/tv/btws.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://my5353.com/7Z1HP
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆V6网络专用🔆",兵团卫视
+http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?mkey=txiptv#http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8?u8key=txiptv#https://my5353.com/7Z1HP
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆V6网络专用🔆",兵团卫视
 http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226439/index.m3u8
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆V6网络专用🔆",兵团卫视
 https://mursor.ottiptv.cc/migu/956923145.m3u8?migutoken=3be33fcea1bddf67b19a5f25725dad8d5ba598f7738c50fdaca616f8b9fc7d12b859300bfd0a7f7c35bef766861445a17502f1029f70aaf939d44cfb9e9d3fe7855e926884cad0b86a1a75f0a2
@@ -6683,8 +6685,6 @@ http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221227168/index.m3u
 http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221227168/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆V6网络专用🔆",兵团卫视
 http://wouu.net:9977/udp/239.93.42.43:5140
-#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/兵团卫视.png" group-title="🔆V6网络专用🔆",兵团卫视
-http://tvbox6.com/tv/bfgd.php?id=124
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="🔆V6网络专用🔆",康巴卫视
 http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8
 #EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/康巴卫视.png" group-title="🔆V6网络专用🔆",康巴卫视
