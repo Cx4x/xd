@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-20 17:54:49,https://my5353.com/CixEZ
+2025-09-21 01:02:31,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2211,6 +2211,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 都市剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226694/index.m3u8
 都市剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace
+都市剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
@@ -2221,11 +2222,13 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 动漫秀场,https://live.v1.mk/api/bestv.php?id=dmxc8m/8000000
 动漫秀场,https://hls-gateway.vpstv.net/streams/708843.m3u8
 动漫秀场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031113/index.m3u8?channel-id=bestzb&Contentid=5000000011000031113&Ace
+动漫秀场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226211/1/index.m3u8?fmt=ts2hls
 生活时尚,https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
 生活时尚,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226570/index.m3u8
 生活时尚,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000002000019634
 生活时尚,http://home.dzlove.top:35455/itv/5000000002000019634.m3u8?cdn=bestzb
 生活时尚,http://wouu.net:9977/udp/239.93.42.29:5140
+生活时尚,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226207/1/index.m3u8?fmt=ts2hls
 欢笑剧场,https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc
@@ -2248,6 +2251,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 游戏风云,http://goo.bkpcp.top/mg/yxfy
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,http://wouu.net:9977/udp/239.93.0.136:5140
+游戏风云,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
 金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8
@@ -2383,6 +2387,8 @@ CETV1,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv1/50/20240709/index.m3u8?
 CETV1,https://mgtv.ottiptv.cc/mg/923287154.m3u8?token=69a03fa68e79818417069813faea2c4edafc81b49028310b62d6a32dfab7a9ac6bc19e0659293ddca8c3a39374987efbb65cbe40f758986c56d7d15b2c11198be731f0e05d22bce0dbf72d1292&tm=1757363644&sign=02f4f656e0a499ff53ac11dd813934a3
 CETV1,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225775/1.m3u8
 CETV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+CETV1,https://migu.11cn.dpdns.org/cetv1
+CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -2392,6 +2398,7 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 CETV4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?token=82db160b96b5b542042330cebfdef512ae203dec8c8f4d318cc16dce4ade0fe4fb9ed3971c39b68f7448126f1fd25b68c05446e3182cf189bcaea902bfb9c73c688563c743e7abb5a29b6e9f59&tm=1757363644&sign=4dba31cb1b5c60ff8cae73b93e313250
 CETV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226069/1.m3u8
 CETV4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV4,https://migu.11cn.dpdns.org/cetv4
 CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://wx65267199.tv12.xyz/01.m3u8
@@ -2409,6 +2416,7 @@ CGTN,http://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://mgtv.ottiptv.cc/mg/609017205.m3u8?token=aea1856725837cb942bfef08e5c715edc6c5221d10ebfb0ad93f557cd2bb6028b60a84dab93b40f7376200db57a8d138a7051467e38a5e89b2c2a0f585efd4c3fcaa767bc1c21837da3ad4b995&tm=1757363644&sign=9a4b75204cdf675d1681c2d7e7139b68
 CGTN,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=20250918080056388392ee340d4c66920a83886988791f&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20250918080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=106.13.250.83&SecurityKey=20250918080056&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a3b5868daa2692478d073583cac1fb57&ddCalcu=7a53ebb1f59180c6a8cd3a8a52367902d487
 CGTN,http://free.cnlive.club/channel/n337674eb/index.m3u8?q=1758348728277
+CGTN,https://migu.11cn.dpdns.org/cgtn-6
 
 🔆V6网络专用🔆,#genre#
 CCTV-1 综合,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
