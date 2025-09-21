@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-21 18:16:38,https://my5353.com/CixEZ
+2025-09-22 00:59:23,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -377,9 +377,11 @@ CCTV4K,http://lml1971.cn:35455/bst/cctv4k@15000000.m3u8
 CCTV4K,https://mursor.ottiptv.cc/mxw/cctv4k-2.m3u8?tm=1757370765&sign=568c95b772a94bff72920a52338a7d1f
 CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV4K,https://ling.tv12.xyz/1120.m3u8
+CCTV4K,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,https://mursor.ottiptv.cc/mcp/cctv8k.m3u8?tm=1757370765&sign=c1acfa4c49429e7d3010f91886412311
+CCTV8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 
 🔆卫视频道🔆,#genre#
 北京卫视,https://my5353.com/m3OUD
@@ -2184,6 +2186,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 五星体育,http://zteres.sn.chinamobile.com:6060/000000001000/5000000010000017540/1.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 五星体育,https://cdn3.163189.xyz/163189/wxty
 五星体育,http://atsj.tv.inf.ua/php/sh.php?id=wxty
+五星体育,http://3501776.xyz:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
@@ -2204,6 +2207,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 上海都市,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001015/index.m3u8?
 上海都市,http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001015/1.m3u8
 上海都市,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&Ace
+上海都市,http://3501776.xyz:35455/itv/5000000010000018926.m3u8?cdn=bestzb
 金色学堂,https://zby.130519.xyz/PLTV/11/224/3221225748/index.m3u8
 金色学堂,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226545/index.m3u8
 金色学堂,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000026105
@@ -2212,6 +2216,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 都市剧场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031111
 都市剧场,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031111/index.m3u8?channel-id=bestzb&Contentid=5000000011000031111&Ace
 都市剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226231/1/index.m3u8?fmt=ts2hls
+都市剧场,http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 动漫秀场,http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031113
 动漫秀场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226608/index.m3u8
@@ -2235,6 +2240,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
 欢笑剧场,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226704/index.m3u8
 欢笑剧场,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.mobaibox.com/PLTV/3/224/3221227715/index.m3u8?icpid=3&RTS=1661190272&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
+欢笑剧场,http://3501776.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 法治天地,https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
@@ -2252,6 +2258,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 游戏风云,https://www.freetv.top/migu/790188417.m3u8?migutoken=0276ef43726b0a3df46f95059cfba0dc88fb58e0682005aef78c7fcce5c7101a4d1199cd5aa05c58eaed75bf3a107385ce216cf787ceb58c1839c276b121b05b72a1ec8d7c6f23c240511643c0
 游戏风云,http://wouu.net:9977/udp/239.93.0.136:5140
 游戏风云,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226193/1/index.m3u8?fmt=ts2hls
+游戏风云,http://3501776.xyz:35455/itv/5000000011000031114.m3u8?cdn=bestzb
 金鹰卡通,https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 金鹰卡通,http://dsj.motem.top:8880/bptv/10000100000000050000000004796942.m3u8
 金鹰卡通,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226576/1.m3u8
@@ -2348,6 +2355,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 睛彩竞技,http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8
 睛彩竞技,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270001/1.m3u8
 睛彩竞技,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225814/1.m3u8
+睛彩竞技,http://3501776.xyz:35455/itv/3000000020000011528.m3u8?cdn=FifastbLive
 睛彩篮球,https://zby.130519.xyz/PLTV/11/224/3221226118/index.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 睛彩篮球,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
@@ -2365,6 +2373,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 睛彩篮球,http://zjzcf.synology.me:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩篮球,https://fenghuang.tv12.xyz/78.m3u8
 睛彩篮球,http://sxydajtvlive.sx.chinamobile.com/PLTV/-/224/3221225922/1.m3u8
+睛彩篮球,http://3501776.xyz:35455/itv/3000000020000011529.m3u8?cdn=FifastbLive
 睛彩广场舞,https://zby.130519.xyz/PLTV/11/224/3221226139/index.m3u8
 睛彩广场舞,http://dsj.motem.top:8880/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
@@ -2417,6 +2426,7 @@ CGTN,https://mgtv.ottiptv.cc/mg/609017205.m3u8?token=aea1856725837cb942bfef08e5c
 CGTN,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8?msisdn=20250918080056388392ee340d4c66920a83886988791f&mdspid=&spid=699004&netType=0&sid=2202196407&pid=2028597139&timestamp=20250918080056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609017205&ParentNodeID=-99&assertID=2202196407&client_ip=106.13.250.83&SecurityKey=20250918080056&promotionId=&mvid=2202196407&mcid=500020&playurlVersion=ZQ-A1-8.9.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a3b5868daa2692478d073583cac1fb57&ddCalcu=7a53ebb1f59180c6a8cd3a8a52367902d487
 CGTN,http://free.cnlive.club/channel/n337674eb/index.m3u8?q=1758348728277
 CGTN,https://migu.11cn.dpdns.org/cgtn-6
+CGTN,http://3501776.xyz:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
 
 🔆V6网络专用🔆,#genre#
 CCTV-1 综合,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
