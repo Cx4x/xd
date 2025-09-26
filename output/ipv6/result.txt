@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-09-26 18:18:31,https://my5353.com/CixEZ
+2025-09-27 01:26:47,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -3439,3 +3439,4 @@ CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/22
 山东教育,http://iptv.huuc.edu.cn/hls/sdetv.m3u8
 山东教育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225655/index.m3u8
 山东教育,https://mursor.ottiptv.cc/gptv/G_SDETV.m3u8
+山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927000056dba9d8920f0d467aab5e137e64f49764&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927000056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927000056&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f76fc28bf4db56dfff4cfdaf92f02805&ddCalcu=5f07e8622f90c0f2289bffa4ddfbc546fdff
