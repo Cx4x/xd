@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-16 01:11:09,https://my5353.com/CixEZ
+2025-10-16 11:25:43,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -379,6 +379,7 @@ CCTV4K,http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
 CCTV4K,https://ling.tv12.xyz/1120.m3u8
 CCTV4K,http://3501776.xyz:35455/gaoma/cctv4k_10m.m3u8
 CCTV4K,https://iptv.catvod.com/live.php?id=3590
+CCTV4K,http://cyong.top:4022/rtp/239.69.1.12:9712
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 CCTV8K,http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,https://mursor.ottiptv.cc/mcp/cctv8k.m3u8?tm=1757370765&sign=c1acfa4c49429e7d3010f91886412311
@@ -2431,6 +2432,7 @@ CETV1,https://migu.11cn.dpdns.org/cetv1
 CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8?fmt=ts2hls
 CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
+CETV1,http://cyong.top:4022/rtp/239.69.1.110:10298
 CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
