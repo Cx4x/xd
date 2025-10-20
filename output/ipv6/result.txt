@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-20 11:16:36,https://my5353.com/CixEZ
+2025-10-20 18:17:05,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -594,6 +594,7 @@ CCTV8K,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
 香港卫视,https://migu.188766.xyz/?migutoken=6804cde09f4133e69f2aaf5406a2bcc5&id=%E9%A6%99%E6%B8%AF%E5%8D%AB%E8%A7%86&type=yy
 香港卫视,https://hls-gateway.vpstv.net/streams/708918.m3u8
 香港卫视,http://yvxymm.tv12.xyz/175.m3u8
+香港卫视,http://webcast.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 东南卫视,https://my5353.com/UyYjx
 东南卫视,https://mursor.ottiptv.cc/migu/849116810.m3u8?migutoken=cc3e918e23b243c05398fd6eef7120f94afaacee71e0d2ec8746fba8c490989f800829d95d36398cca4631512d1a1b38763e6ce1591d6aecc50723287e12cd1b9b7d677f9c7ebed66ec88db2c4
 东南卫视,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010096
