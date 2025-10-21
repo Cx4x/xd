@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-21 18:08:54,https://my5353.com/CixEZ
+2025-10-22 01:25:42,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2438,6 +2438,7 @@ CETV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225723/1/index.m3u8
 CETV1,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226673/1.m3u8
 CETV1,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 CETV1,http://cyong.top:4022/rtp/239.69.1.110:10298
+CETV1,https://migu.pl10000.top/cetv1
 CETV4,https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 CETV4,https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b
 CETV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
@@ -2448,6 +2449,7 @@ CETV4,https://mgtv.ottiptv.cc/mg/923287339.m3u8?token=82db160b96b5b542042330cebf
 CETV4,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226069/1.m3u8
 CETV4,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
 CETV4,https://migu.11cn.dpdns.org/cetv4
+CETV4,https://migu.pl10000.top/cetv4
 CGTN,https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 CGTN,https://0472.org/hls/cgtn.m3u8
 CGTN,http://wx65267199.tv12.xyz/01.m3u8
@@ -2467,6 +2469,7 @@ CGTN,http://gslbmgsplive.miguvideo.com/envivo_x/2018/SD/cctvnews/1000/index.m3u8
 CGTN,http://free.cnlive.club/channel/n337674eb/index.m3u8?q=1758348728277
 CGTN,https://migu.11cn.dpdns.org/cgtn-6
 CGTN,http://3501776.xyz:35455/itv/7745129417417101820.m3u8?cdn=hnbblive
+CGTN,https://migu.pl10000.top/cgtn-6
 
 🔆V6网络专用🔆,#genre#
 CCTV-1 综合,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -3466,3 +3469,4 @@ CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/22
 山东教育,https://mursor.ottiptv.cc/gptv/G_SDETV.m3u8
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=20250927000056dba9d8920f0d467aab5e137e64f49764&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20250927000056&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.83&SecurityKey=20250927000056&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=f76fc28bf4db56dfff4cfdaf92f02805&ddCalcu=5f07e8622f90c0f2289bffa4ddfbc546fdff
 山东教育,https://migu.11cn.dpdns.org/-59
+山东教育,https://migu.pl10000.top/-53
