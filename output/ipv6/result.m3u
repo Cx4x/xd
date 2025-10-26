@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-26 18:04:13
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-27 01:09:30
 https://my5353.com/CixEZ
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV1
 https://my5353.com/CixEZ
@@ -4281,6 +4281,8 @@ http://wouu.net:9977/udp/239.93.1.165:5140
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226134/index.m3u8
 #EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="🔆移动网络专用🔆",东方财经
 https://gd.11cn.dpdns.org/130.m3u8
+#EXTINF:-1 tvg-name="东方财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方财经.png" group-title="🔆移动网络专用🔆",东方财经
+http://www.kktoo21.com:4022/rtp/239.45.0.17:5140
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="🔆移动网络专用🔆",新闻综合
 https://zby.130519.xyz/PLTV/11/224/3221226136/index.m3u8
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="🔆移动网络专用🔆",新闻综合
@@ -4315,6 +4317,8 @@ https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&
 http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202509120900331e2e7bb14f1e421c8aac2841c86436d6&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250912090033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250912090033&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=47645c85b77a146c8a04f7099aebb6de&ddCalcu=e4d7e661b41b50eca8959b0777fa4104a68c
 #EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="🔆移动网络专用🔆",新闻综合
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/index.m3u8
+#EXTINF:-1 tvg-name="新闻综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/新闻综合.png" group-title="🔆移动网络专用🔆",新闻综合
+http://www.kktoo21.com:4022/rtp/239.45.3.209:5140
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="🔆移动网络专用🔆",第一财经
 https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="🔆移动网络专用🔆",第一财经
@@ -4353,6 +4357,8 @@ https://mgtv.ottiptv.cc/mg/608780988.m3u8?sign=ca5073dfefabd07a3a44b30ca200c375&
 http://gslbmgsplive.miguvideo.com/wd_r1/2018/bestv/dycj/1000/index.m3u8?msisdn=20250912090033c5cb12069b0f4f78976842450cc71d28&mdspid=&spid=699212&netType=0&sid=2201008312&pid=2028597139&timestamp=20250912090033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=608780988&ParentNodeID=-99&assertID=2201008312&client_ip=106.13.250.88&SecurityKey=20250912090033&promotionId=&mvid=2201008312&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=ab616424a6e9c9395fed4a58d4ddf7b7&ddCalcu=7abbe761f18d60d442d48a56ae49dce9f359
 #EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="🔆移动网络专用🔆",第一财经
 https://gd.11cn.dpdns.org/215.m3u8
+#EXTINF:-1 tvg-name="第一财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第一财经.png" group-title="🔆移动网络专用🔆",第一财经
+http://www.kktoo21.com:4022/rtp/239.45.3.211:5140
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🔆移动网络专用🔆",五星体育
 https://zby.130519.xyz/PLTV/11/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🔆移动网络专用🔆",五星体育
@@ -4385,6 +4391,8 @@ https://other.ottiptv.cc/wxty.m3u8
 https://gd.11cn.dpdns.org/216.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🔆移动网络专用🔆",五星体育
 https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🔆移动网络专用🔆",五星体育
+http://www.kktoo21.com:4022/rtp/239.45.3.210:5140
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🔆移动网络专用🔆",东方影视
 https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🔆移动网络专用🔆",东方影视
@@ -4405,6 +4413,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8?
 http://[2409:8087:1e04:21::102]:6060/cms001/ch00000090990000001016/1.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🔆移动网络专用🔆",东方影视
 https://gd.11cn.dpdns.org/214.m3u8
+#EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🔆移动网络专用🔆",东方影视
+http://www.kktoo21.com:4022/rtp/239.45.3.237:5140
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="🔆移动网络专用🔆",上海都市
 https://zby.130519.xyz/PLTV/11/224/3221225749/index.m3u8
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/上海都市.png" group-title="🔆移动网络专用🔆",上海都市
@@ -4441,6 +4451,8 @@ http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000010000026105
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225748/1.m3u8
 #EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金色学堂.png" group-title="🔆移动网络专用🔆",金色学堂
 https://gd.11cn.dpdns.org/137.m3u8
+#EXTINF:-1 tvg-name="金色学堂" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金色学堂.png" group-title="🔆移动网络专用🔆",金色学堂
+http://www.kktoo21.com:4022/rtp/239.45.0.9:5140
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🔆移动网络专用🔆",都市剧场
 https://zby.130519.xyz/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🔆移动网络专用🔆",都市剧场
@@ -4457,6 +4469,8 @@ http://3501776.xyz:35455/itv/5000000011000031111.m3u8?cdn=bestzb
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
 #EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🔆移动网络专用🔆",都市剧场
 https://gd.11cn.dpdns.org/135.m3u8
+#EXTINF:-1 tvg-name="都市剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/都市剧场.png" group-title="🔆移动网络专用🔆",都市剧场
+http://www.kktoo21.com:4022/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🔆移动网络专用🔆",动漫秀场
 https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🔆移动网络专用🔆",动漫秀场
@@ -4485,6 +4499,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225764/index.m3u8
 https://gd.11cn.dpdns.org/131.m3u8
 #EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🔆移动网络专用🔆",动漫秀场
 https://shyd.695847.xyz/cms001/ch00000090990000001196/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 tvg-name="动漫秀场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/动漫秀场.png" group-title="🔆移动网络专用🔆",动漫秀场
+http://www.kktoo21.com:4022/rtp/239.45.3.134:5140
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="🔆移动网络专用🔆",生活时尚
 https://zby.130519.xyz/PLTV/11/224/3221225768/index.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="🔆移动网络专用🔆",生活时尚
@@ -4503,6 +4519,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225768/index.m3u8
 https://gd.11cn.dpdns.org/138.m3u8
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="🔆移动网络专用🔆",生活时尚
 https://shyd.695847.xyz/cms001/ch00000090990000001199/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/生活时尚.png" group-title="🔆移动网络专用🔆",生活时尚
+http://www.kktoo21.com:4022/rtp/239.45.3.132:5140
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="🔆移动网络专用🔆",欢笑剧场
 https://zby.130519.xyz/PLTV/11/224/3221225771/index.m3u8
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="🔆移动网络专用🔆",欢笑剧场
@@ -4519,6 +4537,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/wh7f454c46tw1868232_1764604972/ott.m
 http://3501776.xyz:35455/itv/5000000002000009455.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="🔆移动网络专用🔆",欢笑剧场
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8
+#EXTINF:-1 tvg-name="欢笑剧场" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/欢笑剧场.png" group-title="🔆移动网络专用🔆",欢笑剧场
+http://www.kktoo21.com:4022/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="🔆移动网络专用🔆",法治天地
 https://zby.130519.xyz/PLTV/11/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="🔆移动网络专用🔆",法治天地
@@ -4537,6 +4557,8 @@ http://[2409:8087:5e08:25::4]:6610/000000001000/9001547084732463424/index.m3u8?c
 http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8
 #EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="🔆移动网络专用🔆",法治天地
 https://gd.11cn.dpdns.org/134.m3u8
+#EXTINF:-1 tvg-name="法治天地" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/法治天地.png" group-title="🔆移动网络专用🔆",法治天地
+http://www.kktoo21.com:4022/rtp/239.45.1.46:5140
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🔆移动网络专用🔆",游戏风云
 https://zby.130519.xyz/PLTV/11/224/3221226117/index.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🔆移动网络专用🔆",游戏风云
@@ -4565,6 +4587,8 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226117/index.m3u8
 https://gd.11cn.dpdns.org/132.m3u8
 #EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🔆移动网络专用🔆",游戏风云
 https://shyd.695847.xyz/cms001/ch00000090990000001192/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
+#EXTINF:-1 tvg-name="游戏风云" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/游戏风云.png" group-title="🔆移动网络专用🔆",游戏风云
+http://www.kktoo21.com:4022/rtp/239.45.3.131:5140
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🔆移动网络专用🔆",金鹰卡通
 https://zby.130519.xyz/PLTV/11/224/3221226094/index.m3u8
 #EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/金鹰卡通.png" group-title="🔆移动网络专用🔆",金鹰卡通
@@ -4869,6 +4893,8 @@ http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227190/index.m3u8
 http://cyong.top:4022/rtp/239.69.1.110:10298
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🔆移动网络专用🔆",CETV1
 https://migu.pl10000.top/cetv1
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV1.png" group-title="🔆移动网络专用🔆",CETV1
+http://www.kktoo21.com:4022/rtp/239.45.1.125:5140
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网络专用🔆",CETV4
 https://zby.130519.xyz/PLTV/11/224/3221226153/index.m3u8
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网络专用🔆",CETV4
@@ -4891,6 +4917,8 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 https://migu.11cn.dpdns.org/cetv4
 #EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网络专用🔆",CETV4
 https://migu.pl10000.top/cetv4
+#EXTINF:-1 tvg-name="CETV4" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CETV4.png" group-title="🔆移动网络专用🔆",CETV4
+http://www.kktoo21.com:4022/rtp/239.45.1.50:5140
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="🔆移动网络专用🔆",CGTN
 https://zby.130519.xyz/PLTV/11/224/3221226016/index.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CGTN.png" group-title="🔆移动网络专用🔆",CGTN
