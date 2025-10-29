@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-29 17:59:51
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2025-10-30 01:27:48
 https://my5353.com/CixEZ
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🔆央视频道🔆",CCTV1
 https://my5353.com/CixEZ
@@ -4393,6 +4393,8 @@ https://gd.11cn.dpdns.org/216.m3u8
 https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🔆移动网络专用🔆",五星体育
 http://www.kktoo21.com:4022/rtp/239.45.3.210:5140
+#EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/五星体育.png" group-title="🔆移动网络专用🔆",五星体育
+http://2099.tv12.xyz/28_1761754780012.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🔆移动网络专用🔆",东方影视
 https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 #EXTINF:-1 tvg-name="东方影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东方影视.png" group-title="🔆移动网络专用🔆",东方影视

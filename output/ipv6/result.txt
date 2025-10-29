@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-29 17:59:51,https://my5353.com/CixEZ
+2025-10-30 01:27:48,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2202,6 +2202,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 五星体育,https://gd.11cn.dpdns.org/216.m3u8
 五星体育,https://shyd.695847.xyz/cms001/ch00000090990000001018/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 五星体育,http://www.kktoo21.com:4022/rtp/239.45.3.210:5140
+五星体育,http://2099.tv12.xyz/28_1761754780012.m3u8
 东方影视,https://zby.130519.xyz/PLTV/11/224/3221225744/index.m3u8
 东方影视,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 东方影视,http://z.b.bkpcp.top/m.php?id=shys
