@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-29 11:22:24,https://my5353.com/CixEZ
+2025-10-29 17:59:51,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2162,7 +2162,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 新闻综合,http://[2409:8087:5e08:25::4]:6610/000000001000/5000000011000031110/index.m3u8?channel-id=bestzb&Contentid=5000000011000031110&Ace
 新闻综合,https://mursor.ottiptv.cc/migu/651632657.m3u8?migutoken=2c1df649aa4a05375c169ba80b0e1237948ea4ca1f76374295c3a13814b384753f3baf0671b15276cc4e08d3b8cc736174d9e248cc91974b4a90971bb67c1980a21d82ed456a9630f45e87f4b0
 新闻综合,https://mgtv.ottiptv.cc/mg/651632657.m3u8?sign=baf4677a556e411a7e3639bda66eca0f&tm=1757355490&token=a88466c8c0d3788d333987df991cb29c1bbdcede9924a8d3026202c22940b447704ff2c9123c66b2c48ec34b9f837524f69b99aff7581076d033af2d938587885b364200fd4b1194f2dea477e1
-新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=202509120900331e2e7bb14f1e421c8aac2841c86436d6&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20250912090033&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.88&SecurityKey=20250912090033&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=47645c85b77a146c8a04f7099aebb6de&ddCalcu=e4d7e661b41b50eca8959b0777fa4104a68c
+新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251029080108eba09edb16e1464bbb571c1ce379d5a5&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251029080108&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20251029080108&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=afe18df60746202ba18bf755e82f012a&ddCalcu=aa2fe1e2011f802d8fe6505774f6b28012ab
 新闻综合,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/index.m3u8
 新闻综合,http://www.kktoo21.com:4022/rtp/239.45.3.209:5140
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
