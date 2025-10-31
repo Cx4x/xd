@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-31 11:29:09,https://my5353.com/CixEZ
+2025-10-31 18:03:37,https://my5353.com/CixEZ
 
 🔆央视频道🔆,#genre#
 CCTV1,https://my5353.com/CixEZ
@@ -2165,6 +2165,7 @@ CCTV-16,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226232/index.m
 新闻综合,http://gslbmgsplive.miguvideo.com/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?msisdn=20251029080108eba09edb16e1464bbb571c1ce379d5a5&mdspid=&spid=699212&netType=0&sid=5500002275&pid=2028597139&timestamp=20251029080108&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=651632657&ParentNodeID=-99&assertID=5500002275&client_ip=106.13.250.83&SecurityKey=20251029080108&promotionId=&mvid=5100001716&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=afe18df60746202ba18bf755e82f012a&ddCalcu=aa2fe1e2011f802d8fe6505774f6b28012ab
 新闻综合,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226136/index.m3u8
 新闻综合,http://www.kktoo21.com:4022/rtp/239.45.3.209:5140
+新闻综合,https://iptv.catvod.com/live.php?id=%E4%B8%8A%E6%B5%B7%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88
 第一财经,https://zby.130519.xyz/PLTV/11/224/3221225737/index.m3u8
 第一财经,http://ls.qingting.fm/live/276.m3u8
 第一财经,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000027146
@@ -3486,3 +3487,4 @@ CCTV-17 农业农村,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/22
 山东教育,http://gslbmgsplive.miguvideo.com/migu/kailu/sdjyws/51/20250915/index.m3u8?msisdn=202510290000460a88ab03c1cc4e968cd532c02ebd7af3&mdspid=&spid=600697&netType=0&sid=5910022199&pid=2028597139&timestamp=20251029000046&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=609154353&ParentNodeID=-99&assertID=5910022199&client_ip=106.13.250.90&SecurityKey=20251029000046&promotionId=&mvid=2200208305&mcid=500020&playurlVersion=ZQ-A1-8.10.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=e6e7512574fc128e08a925ea73d31244&ddCalcu=4e46e2e2179350d13275a7e45f2c91a2880e
 山东教育,https://migu.11cn.dpdns.org/-59
 山东教育,https://migu.pl10000.top/-53
+山东教育,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2
